@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostapha LKHADIR</h1>
-<h3 align="center">Final-year Software Engineer student at the National Institute of Posts and Telecommunications (INPT) - Morocco. I love to be challenged, I love problem-solving and I enjoy working on creative and critical projects. Independent and creative, I want to innovate and bring simple solutions to the problem that can arise from software development. I'm comfortable with uncertainty and thrive under pressure.</h3>
+<h3 align="center">Software Engineer at SQLI graduated from the National Institute of Posts and Telecommunications (INPT) - Morocco. I love to be challenged, I love problem-solving and I enjoy working on creative and critical projects. Independent and creative, I want to innovate and bring simple solutions to the problem that can arise from software development. I'm comfortable with uncertainty and thrive under pressure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkhadir&label=Profile%20views&color=0e75b6&style=flat" alt="lkhadir" /> </p>
 
