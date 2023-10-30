@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostapha LKHADIR</h1>
-<h3 align="center">A Solutions oriented Software Engineer eager to innovate. Crafting thoughtfully tailored coding solutions and embracing challenges. </h3>
+<h3 align="center">An innovative and solutions-focused software engineer with expertise in Java. Feel free to explore my GitHub page!<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkhadir&label=Profile%20views&color=0e75b6&style=flat" alt="lkhadir" /> </p>
 
